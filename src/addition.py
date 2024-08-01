@@ -1,7 +1,7 @@
 # app.pyazez
 # This is a test 
 def add(a, b):
-    return a + b
+    retur a + b
 
 def test_add():
     assert add(1, 2) == 3
